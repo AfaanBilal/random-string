@@ -1,0 +1,25 @@
+{
+  "name": "random-string",
+  "version": "0.0.1",
+  "description": "Generate random strings of any length with an optional prefix (non-crypto use only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfaanBilal/random-string.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "id",
+    "generate"
+  ],
+  "author": "Afaan Bilal <afaanbilal@gmail.com> (https://afaanbilal.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfaanBilal/random-string/issues"
+  },
+  "homepage": "https://github.com/AfaanBilal/random-string#readme"
+}

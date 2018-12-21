@@ -1,6 +1,6 @@
 {
   "name": "@afaanbilal/random-string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate random strings of any length with an optional prefix (non-crypto use only)",
   "main": "index.js",
   "scripts": {

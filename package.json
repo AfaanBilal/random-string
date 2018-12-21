@@ -17,7 +17,7 @@
     "generate"
   ],
   "author": "Afaan Bilal <afaanbilal@gmail.com> (https://afaanbilal.github.io)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AfaanBilal/random-string/issues"
   },

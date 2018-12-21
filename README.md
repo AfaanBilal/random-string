@@ -22,4 +22,4 @@ var str = randomString({
 
 ## License
 
-[ISC]()
+[MIT](LICENSE.md)
